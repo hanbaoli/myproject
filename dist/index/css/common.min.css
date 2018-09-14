@@ -1,0 +1,3 @@
+html,body,ul,li,ol,dl,dd,dt,p,h1,h2,h3,h4,h5,h6,form,fieldset,legend,img,input{margin:0;padding:0}body{font-family:'微软雅黑'}h1,h2,h3,h4,h5,h6{font-size:16px;font-weight:normal}ul,ol,li{list-style:none}a,u{text-decoration:none}b,strong{font-weight:normal}em,i{font-style:normal}img{border:0;display:block}.clear_fix:after{content:'.';clear:both;height:0;overflow:hidden;display:block;visibility:hidden}.clear_fix{zoom:1}
+
+body{background:#f7f7f7}h1{color:red;background:yellow}
